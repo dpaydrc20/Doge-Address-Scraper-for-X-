@@ -1,9 +1,7 @@
 # Doge-Address-Scraper-for-X-
 posts and pages
 WORK IN PROGRESS 
-I'll remove the sensitive information and add instructions for using the script. Here's the updated script and the instructions:
 
-I'll remove the sensitive information and add instructions for using the script. Here's the updated script and the instructions:
 
 ### Script to Fetch Replies and Find Dogecoin Addresses
 
